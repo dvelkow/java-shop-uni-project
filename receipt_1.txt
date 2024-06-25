@@ -1,0 +1,6 @@
+Receipt Number: 1
+Cashier: Иван Иванов
+Date: 2024-06-25T03:06:15.918589
+Products:
+- Хляб, Quantity: 2, Price: 1.08, Total: 2.16
+Total Price: 2.16
